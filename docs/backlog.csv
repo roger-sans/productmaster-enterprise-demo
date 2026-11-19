@@ -1,0 +1,17 @@
+id,epic,story,priority,owner,acceptance,dependency,demo_status
+PM-01,Taxonomy,Define three-level category vocabulary,P0,Product Owner,"Distinct stable IDs and valid ancestry",Cross-functional alignment,Delivered
+PM-02,Taxonomy,Enforce terminal classification,P0,Product Management,"Reject nonterminal assignment; allow terminal subfamily",PM-01,Delivered
+PM-03,Identity,Establish unique product identity,P0,Operations,"Unique 12-character key and source mappings",PM-01,Delivered
+PM-04,Metadata,Define reusable technical attributes,P0,Product Management,"Typed definitions with units and controlled vocabulary",PM-01,Delivered
+PM-05,Metadata,Apply technical rules by family,P0,Product Management,"Applicability plus requiredness enforced at acceptance",PM-04,Delivered
+PM-06,Governance,Submit justified product correction,P0,Commercial,"Product unchanged while request is pending",PM-03,Delivered
+PM-07,Governance,Independent approval with version check,P0,Data Steward,"No self-approval; no stale overwrites; audit trail",PM-06,Delivered
+PM-08,Contracts,Publish read-only product contract,P1,Data & IT,"Stable versioned API and lineage",PM-03,Delivered
+PM-09,Admin,Create valid synthetic products,P1,Product Management,"Terminal class and validated attributes before insert",PM-05,Delivered
+PM-10,Administration,Extend metadata safely,P1,Data & IT,"No newly required attributes without backfill policy",PM-05,Delivered
+PI-01,Analytics,Separate observations from master,P1,Finance,"Metric observations never stored as editable attributes",PM-08,Delivered
+PI-02,Analytics,Explain stock cover and input gaps,P1,Operations,"Missing and zero separated; documented illustrative rule",PI-01,Delivered
+PI-03,Analytics,Add human review shortfall facet,P1,Product Owner,"No automatic source system write",PI-01,Delivered
+OPS-01,Enterprise,Replace simulated roles with SSO and RBAC,P2,Security,"Authenticated identity and controlled approval authority",Security design,Not in demo
+OPS-02,Enterprise,Add production migrations and restore,P2,Data & IT,"Independent backup/restore acceptance",Deployment design,Not in demo
+OPS-03,Enterprise,Prove source contracts with real owners,P2,Product Owner,"Owner approved source definitions and business UAT",Business approvals,Not in demo

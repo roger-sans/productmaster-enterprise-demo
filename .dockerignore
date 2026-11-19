@@ -1,0 +1,14 @@
+.git
+.venv
+.pytest_cache
+__pycache__
+*.pyc
+.env
+assets
+sample_data
+tests
+.github
+docs
+data
+*.sqlite3
+*.zip

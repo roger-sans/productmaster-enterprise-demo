@@ -1,0 +1,364 @@
+[
+  {
+    "code": "working_width",
+    "label": "Working width",
+    "data_type": "decimal",
+    "unit": "mm",
+    "options": [],
+    "applies_to": [
+      "Rollers",
+      "Brushes",
+      "Tapes",
+      "Protection",
+      "Trowels"
+    ],
+    "required": true
+  },
+  {
+    "code": "working_length",
+    "label": "Working length",
+    "data_type": "decimal",
+    "unit": "mm",
+    "options": [],
+    "applies_to": [
+      "Rollers",
+      "Brushes",
+      "Trowels",
+      "Poles"
+    ],
+    "required": false
+  },
+  {
+    "code": "diameter",
+    "label": "Nominal diameter",
+    "data_type": "decimal",
+    "unit": "mm",
+    "options": [],
+    "applies_to": [
+      "Rollers",
+      "Poles"
+    ],
+    "required": false
+  },
+  {
+    "code": "pile_height",
+    "label": "Fabric pile height",
+    "data_type": "decimal",
+    "unit": "mm",
+    "options": [],
+    "applies_to": [
+      "Rollers"
+    ],
+    "required": false
+  },
+  {
+    "code": "bristle_material",
+    "label": "Bristle fibre",
+    "data_type": "option",
+    "unit": null,
+    "options": [
+      "Synthetic",
+      "Natural",
+      "Mixed"
+    ],
+    "applies_to": [
+      "Brushes"
+    ],
+    "required": true
+  },
+  {
+    "code": "bristle_density",
+    "label": "Bristle density",
+    "data_type": "option",
+    "unit": null,
+    "options": [
+      "Soft",
+      "Medium",
+      "Firm"
+    ],
+    "applies_to": [
+      "Brushes"
+    ],
+    "required": false
+  },
+  {
+    "code": "handle_material",
+    "label": "Handle material",
+    "data_type": "option",
+    "unit": null,
+    "options": [
+      "Wood",
+      "Polymer",
+      "Bi-material",
+      "Metal"
+    ],
+    "applies_to": [
+      "Brushes",
+      "Rollers",
+      "Trowels"
+    ],
+    "required": false
+  },
+  {
+    "code": "cover_material",
+    "label": "Cover material",
+    "data_type": "option",
+    "unit": null,
+    "options": [
+      "Foam",
+      "Microfiber",
+      "Polyamide",
+      "Woven",
+      "Flocked"
+    ],
+    "applies_to": [
+      "Rollers"
+    ],
+    "required": true
+  },
+  {
+    "code": "surface_finish",
+    "label": "Surface finish",
+    "data_type": "option",
+    "unit": null,
+    "options": [
+      "Smooth",
+      "Textured",
+      "Satin",
+      "Matte"
+    ],
+    "applies_to": [
+      "Rollers",
+      "Sprays",
+      "Trowels"
+    ],
+    "required": false
+  },
+  {
+    "code": "pack_units",
+    "label": "Units per pack",
+    "data_type": "integer",
+    "unit": "unit",
+    "options": [],
+    "applies_to": [
+      "Rollers",
+      "Brushes",
+      "Tapes",
+      "Safety"
+    ],
+    "required": false
+  },
+  {
+    "code": "blade_thickness",
+    "label": "Blade thickness",
+    "data_type": "decimal",
+    "unit": "mm",
+    "options": [],
+    "applies_to": [
+      "Trowels"
+    ],
+    "required": false
+  },
+  {
+    "code": "blade_material",
+    "label": "Blade material",
+    "data_type": "option",
+    "unit": null,
+    "options": [
+      "Stainless Steel",
+      "Carbon Steel",
+      "Polymer"
+    ],
+    "applies_to": [
+      "Trowels"
+    ],
+    "required": true
+  },
+  {
+    "code": "total_extension",
+    "label": "Maximum extension",
+    "data_type": "decimal",
+    "unit": "cm",
+    "options": [],
+    "applies_to": [
+      "Poles"
+    ],
+    "required": true
+  },
+  {
+    "code": "connector_type",
+    "label": "Connector standard",
+    "data_type": "option",
+    "unit": null,
+    "options": [
+      "Threaded",
+      "Quick Lock",
+      "Universal"
+    ],
+    "applies_to": [
+      "Poles"
+    ],
+    "required": false
+  },
+  {
+    "code": "film_thickness",
+    "label": "Film thickness",
+    "data_type": "decimal",
+    "unit": "micron",
+    "options": [],
+    "applies_to": [
+      "Protection"
+    ],
+    "required": false
+  },
+  {
+    "code": "roll_length",
+    "label": "Length per roll",
+    "data_type": "decimal",
+    "unit": "m",
+    "options": [],
+    "applies_to": [
+      "Protection",
+      "Tapes"
+    ],
+    "required": true
+  },
+  {
+    "code": "adhesive_type",
+    "label": "Adhesive type",
+    "data_type": "option",
+    "unit": null,
+    "options": [
+      "Acrylic",
+      "Rubber",
+      "Solvent-free"
+    ],
+    "applies_to": [
+      "Tapes"
+    ],
+    "required": true
+  },
+  {
+    "code": "adhesion_level",
+    "label": "Adhesion level",
+    "data_type": "option",
+    "unit": null,
+    "options": [
+      "Low",
+      "Medium",
+      "High"
+    ],
+    "applies_to": [
+      "Tapes"
+    ],
+    "required": false
+  },
+  {
+    "code": "colour_family",
+    "label": "Colour family",
+    "data_type": "option",
+    "unit": null,
+    "options": [
+      "Neutral",
+      "White",
+      "Black",
+      "Warm",
+      "Cool"
+    ],
+    "applies_to": [
+      "Sprays",
+      "Accessories"
+    ],
+    "required": false
+  },
+  {
+    "code": "volume_ml",
+    "label": "Volume",
+    "data_type": "integer",
+    "unit": "ml",
+    "options": [],
+    "applies_to": [
+      "Sprays",
+      "Cleaning"
+    ],
+    "required": false
+  },
+  {
+    "code": "material_composition",
+    "label": "Main composition",
+    "data_type": "option",
+    "unit": null,
+    "options": [
+      "Cotton",
+      "Microfiber",
+      "Polymer",
+      "Metal",
+      "Wood"
+    ],
+    "applies_to": [
+      "Cleaning",
+      "Safety",
+      "Accessories"
+    ],
+    "required": false
+  },
+  {
+    "code": "protection_class",
+    "label": "Protection class",
+    "data_type": "option",
+    "unit": null,
+    "options": [
+      "General",
+      "Light Duty",
+      "Industrial"
+    ],
+    "applies_to": [
+      "Safety"
+    ],
+    "required": true
+  },
+  {
+    "code": "size_designation",
+    "label": "Size designation",
+    "data_type": "string",
+    "unit": null,
+    "options": [],
+    "applies_to": [
+      "Safety",
+      "Brushes"
+    ],
+    "required": false
+  },
+  {
+    "code": "display_capacity",
+    "label": "Display capacity",
+    "data_type": "integer",
+    "unit": "units",
+    "options": [],
+    "applies_to": [
+      "Displays"
+    ],
+    "required": true
+  },
+  {
+    "code": "recyclable_packaging",
+    "label": "Recyclable packaging",
+    "data_type": "boolean",
+    "unit": null,
+    "options": [],
+    "applies_to": [
+      "Rollers",
+      "Brushes",
+      "Protection",
+      "Tapes",
+      "Safety",
+      "Sprays",
+      "Displays",
+      "Accessories",
+      "Cleaning",
+      "Poles",
+      "Trowels"
+    ],
+    "required": false
+  }
+]

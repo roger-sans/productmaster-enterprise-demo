@@ -1,0 +1,1538 @@
+[
+  {
+    "id": "49c40ee7-8275-5fb2-bee9-1c72266aeac8",
+    "parent_id": null,
+    "code": "paint_brushes",
+    "label": "Paint Brushes",
+    "level": 1,
+    "position": 1
+  },
+  {
+    "id": "224f9953-15de-583d-9c70-b1c6be2ee939",
+    "parent_id": "49c40ee7-8275-5fb2-bee9-1c72266aeac8",
+    "code": "paint_brushes__flat_brushes",
+    "label": "Flat Brushes",
+    "level": 2,
+    "position": 1
+  },
+  {
+    "id": "c5443c3f-88b3-5b69-8271-be73380fee7a",
+    "parent_id": "224f9953-15de-583d-9c70-b1c6be2ee939",
+    "code": "paint_brushes__flat_brushes__classic_wood",
+    "label": "Classic Wood",
+    "level": 3,
+    "position": 1
+  },
+  {
+    "id": "59a98f8c-7683-5f34-87af-de13d69c2cc7",
+    "parent_id": "224f9953-15de-583d-9c70-b1c6be2ee939",
+    "code": "paint_brushes__flat_brushes__ergonomic_grip",
+    "label": "Ergonomic Grip",
+    "level": 3,
+    "position": 2
+  },
+  {
+    "id": "d1daad25-bcb9-51ff-9e80-8a025a94fec0",
+    "parent_id": "224f9953-15de-583d-9c70-b1c6be2ee939",
+    "code": "paint_brushes__flat_brushes__precision_edge",
+    "label": "Precision Edge",
+    "level": 3,
+    "position": 3
+  },
+  {
+    "id": "00c53173-ebe8-5fb0-a195-87ce6dbdfadf",
+    "parent_id": "224f9953-15de-583d-9c70-b1c6be2ee939",
+    "code": "paint_brushes__flat_brushes__synthetic_handle",
+    "label": "Synthetic Handle",
+    "level": 3,
+    "position": 4
+  },
+  {
+    "id": "66b7c767-6c44-50e3-ae41-015dba293724",
+    "parent_id": "49c40ee7-8275-5fb2-bee9-1c72266aeac8",
+    "code": "paint_brushes__round_brushes",
+    "label": "Round Brushes",
+    "level": 2,
+    "position": 2
+  },
+  {
+    "id": "49e33cbf-6dd6-50b0-9aeb-7cea5c6f8fed",
+    "parent_id": "66b7c767-6c44-50e3-ae41-015dba293724",
+    "code": "paint_brushes__round_brushes__natural_bristle",
+    "label": "Natural Bristle",
+    "level": 3,
+    "position": 1
+  },
+  {
+    "id": "b00b84b1-0552-5c7f-8668-05e85a6e65ac",
+    "parent_id": "66b7c767-6c44-50e3-ae41-015dba293724",
+    "code": "paint_brushes__round_brushes__synthetic_bristle",
+    "label": "Synthetic Bristle",
+    "level": 3,
+    "position": 2
+  },
+  {
+    "id": "95c59a5a-338b-5952-855f-28b2aca8674d",
+    "parent_id": "66b7c767-6c44-50e3-ae41-015dba293724",
+    "code": "paint_brushes__round_brushes__mixed_bristle",
+    "label": "Mixed Bristle",
+    "level": 3,
+    "position": 3
+  },
+  {
+    "id": "bac4507e-24bc-5724-9ae2-3d7138b23b70",
+    "parent_id": "49c40ee7-8275-5fb2-bee9-1c72266aeac8",
+    "code": "paint_brushes__detail_brushes",
+    "label": "Detail Brushes",
+    "level": 2,
+    "position": 3
+  },
+  {
+    "id": "ddce8d96-e489-5c79-b299-ec4e2c30311d",
+    "parent_id": "bac4507e-24bc-5724-9ae2-3d7138b23b70",
+    "code": "paint_brushes__detail_brushes__fine_tip",
+    "label": "Fine Tip",
+    "level": 3,
+    "position": 1
+  },
+  {
+    "id": "e0fa0190-5c49-5d23-aeb1-701c8656c27d",
+    "parent_id": "bac4507e-24bc-5724-9ae2-3d7138b23b70",
+    "code": "paint_brushes__detail_brushes__artist_detail",
+    "label": "Artist Detail",
+    "level": 3,
+    "position": 2
+  },
+  {
+    "id": "0a6056b2-b3cf-5016-8507-2579385145f2",
+    "parent_id": "bac4507e-24bc-5724-9ae2-3d7138b23b70",
+    "code": "paint_brushes__detail_brushes__angled_tip",
+    "label": "Angled Tip",
+    "level": 3,
+    "position": 3
+  },
+  {
+    "id": "32fc8367-5b20-5c63-9c28-07516e40adf1",
+    "parent_id": "49c40ee7-8275-5fb2-bee9-1c72266aeac8",
+    "code": "paint_brushes__specialty_brushes",
+    "label": "Specialty Brushes",
+    "level": 2,
+    "position": 4
+  },
+  {
+    "id": "8c7a9482-300b-5fed-b8cb-a641fa653a9a",
+    "parent_id": "32fc8367-5b20-5c63-9c28-07516e40adf1",
+    "code": "paint_brushes__specialty_brushes__radiator",
+    "label": "Radiator",
+    "level": 3,
+    "position": 1
+  },
+  {
+    "id": "6a03571c-7d0e-5076-9c6a-f65210298d74",
+    "parent_id": "32fc8367-5b20-5c63-9c28-07516e40adf1",
+    "code": "paint_brushes__specialty_brushes__corner",
+    "label": "Corner",
+    "level": 3,
+    "position": 2
+  },
+  {
+    "id": "2a705946-a8f8-5ee2-b385-580cfef83273",
+    "parent_id": "32fc8367-5b20-5c63-9c28-07516e40adf1",
+    "code": "paint_brushes__specialty_brushes__stencil",
+    "label": "Stencil",
+    "level": 3,
+    "position": 3
+  },
+  {
+    "id": "f40c5c5d-6968-54af-a92d-26ebb40187cc",
+    "parent_id": "49c40ee7-8275-5fb2-bee9-1c72266aeac8",
+    "code": "paint_brushes__brush_sets",
+    "label": "Brush Sets",
+    "level": 2,
+    "position": 5
+  },
+  {
+    "id": "26f4c02c-f5b6-5484-822a-635f5c7e9217",
+    "parent_id": "f40c5c5d-6968-54af-a92d-26ebb40187cc",
+    "code": "paint_brushes__brush_sets__starter_set",
+    "label": "Starter Set",
+    "level": 3,
+    "position": 1
+  },
+  {
+    "id": "c185d5f4-e9fc-5bf9-8a3e-c3bad781265b",
+    "parent_id": "f40c5c5d-6968-54af-a92d-26ebb40187cc",
+    "code": "paint_brushes__brush_sets__professional_set",
+    "label": "Professional Set",
+    "level": 3,
+    "position": 2
+  },
+  {
+    "id": "7a3a2820-c674-5966-b932-14c8d278a9bd",
+    "parent_id": null,
+    "code": "paint_rollers",
+    "label": "Paint Rollers",
+    "level": 1,
+    "position": 2
+  },
+  {
+    "id": "d4626364-dc25-58e2-835e-559a652d11ea",
+    "parent_id": "7a3a2820-c674-5966-b932-14c8d278a9bd",
+    "code": "paint_rollers__roller_frames",
+    "label": "Roller Frames",
+    "level": 2,
+    "position": 1
+  },
+  {
+    "id": "a13597d7-e46e-5f4b-ae8e-6967db968f37",
+    "parent_id": "d4626364-dc25-58e2-835e-559a652d11ea",
+    "code": "paint_rollers__roller_frames__standard_frame",
+    "label": "Standard Frame",
+    "level": 3,
+    "position": 1
+  },
+  {
+    "id": "8190003a-6eab-57a0-9f04-ccd9e95bde2d",
+    "parent_id": "d4626364-dc25-58e2-835e-559a652d11ea",
+    "code": "paint_rollers__roller_frames__heavy_duty_frame",
+    "label": "Heavy-Duty Frame",
+    "level": 3,
+    "position": 2
+  },
+  {
+    "id": "3b9da643-f1a8-50cd-8ebe-f2ad7c8ab039",
+    "parent_id": "d4626364-dc25-58e2-835e-559a652d11ea",
+    "code": "paint_rollers__roller_frames__quick_release",
+    "label": "Quick Release",
+    "level": 3,
+    "position": 3
+  },
+  {
+    "id": "b5d40652-6e7e-5fea-b85c-d719dc724935",
+    "parent_id": "7a3a2820-c674-5966-b932-14c8d278a9bd",
+    "code": "paint_rollers__roller_covers",
+    "label": "Roller Covers",
+    "level": 2,
+    "position": 2
+  },
+  {
+    "id": "e6e71385-b4da-5d81-bf37-9bf62c32773f",
+    "parent_id": "b5d40652-6e7e-5fea-b85c-d719dc724935",
+    "code": "paint_rollers__roller_covers__microfiber",
+    "label": "Microfiber",
+    "level": 3,
+    "position": 1
+  },
+  {
+    "id": "363b07aa-553b-5617-a676-30ba6eeb2a8f",
+    "parent_id": "b5d40652-6e7e-5fea-b85c-d719dc724935",
+    "code": "paint_rollers__roller_covers__foam",
+    "label": "Foam",
+    "level": 3,
+    "position": 2
+  },
+  {
+    "id": "68f0721f-589b-5eb0-9737-3d4eb0093cdb",
+    "parent_id": "b5d40652-6e7e-5fea-b85c-d719dc724935",
+    "code": "paint_rollers__roller_covers__woven_fabric",
+    "label": "Woven Fabric",
+    "level": 3,
+    "position": 3
+  },
+  {
+    "id": "47c1d708-b794-5c67-b68e-6ce25b278604",
+    "parent_id": "b5d40652-6e7e-5fea-b85c-d719dc724935",
+    "code": "paint_rollers__roller_covers__high_pile",
+    "label": "High Pile",
+    "level": 3,
+    "position": 4
+  },
+  {
+    "id": "ec441be7-d325-5122-8e76-b29de66683bb",
+    "parent_id": "7a3a2820-c674-5966-b932-14c8d278a9bd",
+    "code": "paint_rollers__roller_kits",
+    "label": "Roller Kits",
+    "level": 2,
+    "position": 3
+  },
+  {
+    "id": "80182bd9-2ae4-5bb0-9688-e9402495bdde",
+    "parent_id": "ec441be7-d325-5122-8e76-b29de66683bb",
+    "code": "paint_rollers__roller_kits__interior_kit",
+    "label": "Interior Kit",
+    "level": 3,
+    "position": 1
+  },
+  {
+    "id": "ebfe469a-7cc2-54c9-b055-6529251eb5c4",
+    "parent_id": "ec441be7-d325-5122-8e76-b29de66683bb",
+    "code": "paint_rollers__roller_kits__exterior_kit",
+    "label": "Exterior Kit",
+    "level": 3,
+    "position": 2
+  },
+  {
+    "id": "fc2166cb-aea8-5602-9d06-a822e10b864b",
+    "parent_id": "ec441be7-d325-5122-8e76-b29de66683bb",
+    "code": "paint_rollers__roller_kits__specialty_kit",
+    "label": "Specialty Kit",
+    "level": 3,
+    "position": 3
+  },
+  {
+    "id": "93334616-ce9f-5ba7-a23f-8b205aaed4f3",
+    "parent_id": "7a3a2820-c674-5966-b932-14c8d278a9bd",
+    "code": "paint_rollers__corner_rollers",
+    "label": "Corner Rollers",
+    "level": 2,
+    "position": 4
+  },
+  {
+    "id": "a0ed2933-a842-5729-b78d-91ac7269a4f7",
+    "parent_id": "7a3a2820-c674-5966-b932-14c8d278a9bd",
+    "code": "paint_rollers__roller_accessories",
+    "label": "Roller Accessories",
+    "level": 2,
+    "position": 5
+  },
+  {
+    "id": "56c473ed-47e9-51d3-b9d6-a9032e11544f",
+    "parent_id": "a0ed2933-a842-5729-b78d-91ac7269a4f7",
+    "code": "paint_rollers__roller_accessories__end_cap",
+    "label": "End Cap",
+    "level": 3,
+    "position": 1
+  },
+  {
+    "id": "0ee51b38-c04d-54d7-b506-951610333478",
+    "parent_id": "a0ed2933-a842-5729-b78d-91ac7269a4f7",
+    "code": "paint_rollers__roller_accessories__sleeve_adapter",
+    "label": "Sleeve Adapter",
+    "level": 3,
+    "position": 2
+  },
+  {
+    "id": "3cee13f4-f21e-5be1-a685-175425249cc9",
+    "parent_id": null,
+    "code": "mini_rollers",
+    "label": "Mini Rollers",
+    "level": 1,
+    "position": 3
+  },
+  {
+    "id": "29b4dc7d-6a20-522f-9f00-82885bae282e",
+    "parent_id": "3cee13f4-f21e-5be1-a685-175425249cc9",
+    "code": "mini_rollers__mini_roller_kits",
+    "label": "Mini Roller Kits",
+    "level": 2,
+    "position": 1
+  },
+  {
+    "id": "31d3048d-9539-592f-b2a6-7f98f05a7c11",
+    "parent_id": "29b4dc7d-6a20-522f-9f00-82885bae282e",
+    "code": "mini_rollers__mini_roller_kits__short_handle",
+    "label": "Short Handle",
+    "level": 3,
+    "position": 1
+  },
+  {
+    "id": "528d15b7-3be1-5968-82ce-a1328af954ea",
+    "parent_id": "29b4dc7d-6a20-522f-9f00-82885bae282e",
+    "code": "mini_rollers__mini_roller_kits__long_handle",
+    "label": "Long Handle",
+    "level": 3,
+    "position": 2
+  },
+  {
+    "id": "e5b9b0a5-f5c3-596d-8797-1835a7d8f017",
+    "parent_id": "29b4dc7d-6a20-522f-9f00-82885bae282e",
+    "code": "mini_rollers__mini_roller_kits__twin_pack",
+    "label": "Twin Pack",
+    "level": 3,
+    "position": 3
+  },
+  {
+    "id": "03e3abbc-a359-5b1c-8adf-d02bbb28f4f4",
+    "parent_id": "3cee13f4-f21e-5be1-a685-175425249cc9",
+    "code": "mini_rollers__mini_covers",
+    "label": "Mini Covers",
+    "level": 2,
+    "position": 2
+  },
+  {
+    "id": "e8b849ff-3e95-5d22-b7bc-8fcb68b5879d",
+    "parent_id": "03e3abbc-a359-5b1c-8adf-d02bbb28f4f4",
+    "code": "mini_rollers__mini_covers__foam",
+    "label": "Foam",
+    "level": 3,
+    "position": 1
+  },
+  {
+    "id": "bfeac248-b272-58c2-8726-96fbe182601a",
+    "parent_id": "03e3abbc-a359-5b1c-8adf-d02bbb28f4f4",
+    "code": "mini_rollers__mini_covers__microfiber",
+    "label": "Microfiber",
+    "level": 3,
+    "position": 2
+  },
+  {
+    "id": "f74de550-b491-5489-bfd0-f34a643bdb74",
+    "parent_id": "03e3abbc-a359-5b1c-8adf-d02bbb28f4f4",
+    "code": "mini_rollers__mini_covers__flocked",
+    "label": "Flocked",
+    "level": 3,
+    "position": 3
+  },
+  {
+    "id": "3a51cbb4-7ebe-5002-9492-3aa9a2200fb6",
+    "parent_id": "3cee13f4-f21e-5be1-a685-175425249cc9",
+    "code": "mini_rollers__midi_covers",
+    "label": "Midi Covers",
+    "level": 2,
+    "position": 3
+  },
+  {
+    "id": "62958b0d-f380-5629-b03b-a18cb43c0340",
+    "parent_id": "3a51cbb4-7ebe-5002-9492-3aa9a2200fb6",
+    "code": "mini_rollers__midi_covers__fine_finish",
+    "label": "Fine Finish",
+    "level": 3,
+    "position": 1
+  },
+  {
+    "id": "fcab2001-e153-59fc-8e85-fe8481c9ba98",
+    "parent_id": "3a51cbb4-7ebe-5002-9492-3aa9a2200fb6",
+    "code": "mini_rollers__midi_covers__general_purpose",
+    "label": "General Purpose",
+    "level": 3,
+    "position": 2
+  },
+  {
+    "id": "0db47f7b-0575-59ed-94d5-d85bb3d608c1",
+    "parent_id": "3cee13f4-f21e-5be1-a685-175425249cc9",
+    "code": "mini_rollers__midi_roller_kits",
+    "label": "Midi Roller Kits",
+    "level": 2,
+    "position": 4
+  },
+  {
+    "id": "a821ac27-6055-507e-989f-0fb4037382b1",
+    "parent_id": "0db47f7b-0575-59ed-94d5-d85bb3d608c1",
+    "code": "mini_rollers__midi_roller_kits__fixed_frame",
+    "label": "Fixed Frame",
+    "level": 3,
+    "position": 1
+  },
+  {
+    "id": "b74861c7-cd0b-51dd-8cb2-ff73dd81eadc",
+    "parent_id": "0db47f7b-0575-59ed-94d5-d85bb3d608c1",
+    "code": "mini_rollers__midi_roller_kits__replaceable_sleeve",
+    "label": "Replaceable Sleeve",
+    "level": 3,
+    "position": 2
+  },
+  {
+    "id": "9ad26ba6-c809-541c-ac4a-0095e3a6be36",
+    "parent_id": "3cee13f4-f21e-5be1-a685-175425249cc9",
+    "code": "mini_rollers__mini_frames",
+    "label": "Mini Frames",
+    "level": 2,
+    "position": 5
+  },
+  {
+    "id": "7bb516b4-5916-5f61-9235-3d0a145e6518",
+    "parent_id": null,
+    "code": "painting_accessories",
+    "label": "Painting Accessories",
+    "level": 1,
+    "position": 4
+  },
+  {
+    "id": "2f53f651-1863-5652-b933-fabcacb98194",
+    "parent_id": "7bb516b4-5916-5f61-9235-3d0a145e6518",
+    "code": "painting_accessories__paint_trays",
+    "label": "Paint Trays",
+    "level": 2,
+    "position": 1
+  },
+  {
+    "id": "5fd77f45-5265-5d29-bb31-5c609650b63b",
+    "parent_id": "2f53f651-1863-5652-b933-fabcacb98194",
+    "code": "painting_accessories__paint_trays__shallow",
+    "label": "Shallow",
+    "level": 3,
+    "position": 1
+  },
+  {
+    "id": "592e8e63-1018-5964-badf-2f358f722607",
+    "parent_id": "2f53f651-1863-5652-b933-fabcacb98194",
+    "code": "painting_accessories__paint_trays__deep_well",
+    "label": "Deep Well",
+    "level": 3,
+    "position": 2
+  },
+  {
+    "id": "724d4e9d-d95f-5d09-8601-549276fe323c",
+    "parent_id": "2f53f651-1863-5652-b933-fabcacb98194",
+    "code": "painting_accessories__paint_trays__disposable_insert",
+    "label": "Disposable Insert",
+    "level": 3,
+    "position": 3
+  },
+  {
+    "id": "0fdc6d04-8e5e-562a-a35a-89faccba61ab",
+    "parent_id": "7bb516b4-5916-5f61-9235-3d0a145e6518",
+    "code": "painting_accessories__paint_grids",
+    "label": "Paint Grids",
+    "level": 2,
+    "position": 2
+  },
+  {
+    "id": "74386630-eb85-51f5-a555-b992d43c2574",
+    "parent_id": "0fdc6d04-8e5e-562a-a35a-89faccba61ab",
+    "code": "painting_accessories__paint_grids__metal",
+    "label": "Metal",
+    "level": 3,
+    "position": 1
+  },
+  {
+    "id": "e31ed4cf-0b5e-5112-b096-d003887635cb",
+    "parent_id": "0fdc6d04-8e5e-562a-a35a-89faccba61ab",
+    "code": "painting_accessories__paint_grids__polymer",
+    "label": "Polymer",
+    "level": 3,
+    "position": 2
+  },
+  {
+    "id": "16c9274e-e5e4-5db6-a802-202f77f1fca8",
+    "parent_id": "7bb516b4-5916-5f61-9235-3d0a145e6518",
+    "code": "painting_accessories__mixing_tools",
+    "label": "Mixing Tools",
+    "level": 2,
+    "position": 3
+  },
+  {
+    "id": "81c99b23-4f1a-5e12-bdd3-342453ca8f4c",
+    "parent_id": "16c9274e-e5e4-5db6-a802-202f77f1fca8",
+    "code": "painting_accessories__mixing_tools__hand_mixer",
+    "label": "Hand Mixer",
+    "level": 3,
+    "position": 1
+  },
+  {
+    "id": "d73f0ed1-a643-5546-900d-0bffa7fa2e04",
+    "parent_id": "16c9274e-e5e4-5db6-a802-202f77f1fca8",
+    "code": "painting_accessories__mixing_tools__drill_attachment",
+    "label": "Drill Attachment",
+    "level": 3,
+    "position": 2
+  },
+  {
+    "id": "7f4d3d74-e80f-556d-9dfd-bf9451056365",
+    "parent_id": "7bb516b4-5916-5f61-9235-3d0a145e6518",
+    "code": "painting_accessories__paint_containers",
+    "label": "Paint Containers",
+    "level": 2,
+    "position": 4
+  },
+  {
+    "id": "7ff312dd-11af-5a99-91f8-9b22ff62e319",
+    "parent_id": "7f4d3d74-e80f-556d-9dfd-bf9451056365",
+    "code": "painting_accessories__paint_containers__bucket",
+    "label": "Bucket",
+    "level": 3,
+    "position": 1
+  },
+  {
+    "id": "8105e5da-8e9b-5217-9937-2e43297bad1a",
+    "parent_id": "7f4d3d74-e80f-556d-9dfd-bf9451056365",
+    "code": "painting_accessories__paint_containers__liner",
+    "label": "Liner",
+    "level": 3,
+    "position": 2
+  },
+  {
+    "id": "e509efe1-a179-5681-9998-124b01c90b47",
+    "parent_id": "7f4d3d74-e80f-556d-9dfd-bf9451056365",
+    "code": "painting_accessories__paint_containers__measuring_cup",
+    "label": "Measuring Cup",
+    "level": 3,
+    "position": 3
+  },
+  {
+    "id": "f1c37459-9339-55bf-9aba-0f464ac39a9f",
+    "parent_id": "7bb516b4-5916-5f61-9235-3d0a145e6518",
+    "code": "painting_accessories__other_applicators",
+    "label": "Other Applicators",
+    "level": 2,
+    "position": 5
+  },
+  {
+    "id": "9f5c0574-ea68-5314-859f-277a17e25a0e",
+    "parent_id": null,
+    "code": "extension_poles",
+    "label": "Extension Poles",
+    "level": 1,
+    "position": 5
+  },
+  {
+    "id": "8281cd8d-a86b-567e-99a3-f97600f8f604",
+    "parent_id": "9f5c0574-ea68-5314-859f-277a17e25a0e",
+    "code": "extension_poles__telescopic_poles",
+    "label": "Telescopic Poles",
+    "level": 2,
+    "position": 1
+  },
+  {
+    "id": "4b57e032-f410-5229-8c25-d58114e5ea59",
+    "parent_id": "8281cd8d-a86b-567e-99a3-f97600f8f604",
+    "code": "extension_poles__telescopic_poles__two_section",
+    "label": "Two Section",
+    "level": 3,
+    "position": 1
+  },
+  {
+    "id": "8ec20eba-1405-532d-8bc5-0f22361626b8",
+    "parent_id": "8281cd8d-a86b-567e-99a3-f97600f8f604",
+    "code": "extension_poles__telescopic_poles__three_section",
+    "label": "Three Section",
+    "level": 3,
+    "position": 2
+  },
+  {
+    "id": "db608c79-2efa-5bab-9066-be564783ee4f",
+    "parent_id": "9f5c0574-ea68-5314-859f-277a17e25a0e",
+    "code": "extension_poles__fixed_poles",
+    "label": "Fixed Poles",
+    "level": 2,
+    "position": 2
+  },
+  {
+    "id": "501b398b-884b-513a-bf79-da27fa391f0f",
+    "parent_id": "db608c79-2efa-5bab-9066-be564783ee4f",
+    "code": "extension_poles__fixed_poles__aluminium",
+    "label": "Aluminium",
+    "level": 3,
+    "position": 1
+  },
+  {
+    "id": "5304a292-340d-57c8-9f4f-4a6e748f2842",
+    "parent_id": "db608c79-2efa-5bab-9066-be564783ee4f",
+    "code": "extension_poles__fixed_poles__composite",
+    "label": "Composite",
+    "level": 3,
+    "position": 2
+  },
+  {
+    "id": "c937bdff-f0ec-5e09-a76f-40a902c20b57",
+    "parent_id": "9f5c0574-ea68-5314-859f-277a17e25a0e",
+    "code": "extension_poles__pole_connectors",
+    "label": "Pole Connectors",
+    "level": 2,
+    "position": 3
+  },
+  {
+    "id": "12e484b8-0b47-50b5-981e-abde2e0cbed1",
+    "parent_id": "c937bdff-f0ec-5e09-a76f-40a902c20b57",
+    "code": "extension_poles__pole_connectors__threaded",
+    "label": "Threaded",
+    "level": 3,
+    "position": 1
+  },
+  {
+    "id": "128652b3-cf14-56fb-8895-53be92e6df78",
+    "parent_id": "c937bdff-f0ec-5e09-a76f-40a902c20b57",
+    "code": "extension_poles__pole_connectors__universal",
+    "label": "Universal",
+    "level": 3,
+    "position": 2
+  },
+  {
+    "id": "8a46c0cb-a339-5404-87ad-b7f91afd7de7",
+    "parent_id": "c937bdff-f0ec-5e09-a76f-40a902c20b57",
+    "code": "extension_poles__pole_connectors__quick_lock",
+    "label": "Quick Lock",
+    "level": 3,
+    "position": 3
+  },
+  {
+    "id": "b93aace7-c5bf-5594-843d-84c323f5a713",
+    "parent_id": "9f5c0574-ea68-5314-859f-277a17e25a0e",
+    "code": "extension_poles__pole_accessories",
+    "label": "Pole Accessories",
+    "level": 2,
+    "position": 4
+  },
+  {
+    "id": "f91ea7b2-7e01-5a3c-867e-a15675061d11",
+    "parent_id": null,
+    "code": "surface_protection",
+    "label": "Surface Protection",
+    "level": 1,
+    "position": 6
+  },
+  {
+    "id": "7eae077c-01e3-5516-b6d7-29e62902a023",
+    "parent_id": "f91ea7b2-7e01-5a3c-867e-a15675061d11",
+    "code": "surface_protection__floor_protection",
+    "label": "Floor Protection",
+    "level": 2,
+    "position": 1
+  },
+  {
+    "id": "5f5c5a80-4618-5945-8453-2e423747d038",
+    "parent_id": "7eae077c-01e3-5516-b6d7-29e62902a023",
+    "code": "surface_protection__floor_protection__paper",
+    "label": "Paper",
+    "level": 3,
+    "position": 1
+  },
+  {
+    "id": "a29f3f38-966d-543f-b271-6e32a2b76abf",
+    "parent_id": "7eae077c-01e3-5516-b6d7-29e62902a023",
+    "code": "surface_protection__floor_protection__non_woven",
+    "label": "Non-Woven",
+    "level": 3,
+    "position": 2
+  },
+  {
+    "id": "128c4f53-c2a3-5b5a-bd67-c716d2a87f94",
+    "parent_id": "7eae077c-01e3-5516-b6d7-29e62902a023",
+    "code": "surface_protection__floor_protection__plastic_film",
+    "label": "Plastic Film",
+    "level": 3,
+    "position": 3
+  },
+  {
+    "id": "13ab4bfd-de0e-5046-9669-2985e27e5104",
+    "parent_id": "f91ea7b2-7e01-5a3c-867e-a15675061d11",
+    "code": "surface_protection__masking_film",
+    "label": "Masking Film",
+    "level": 2,
+    "position": 2
+  },
+  {
+    "id": "90285db9-791a-544a-aa74-1da11639e0fd",
+    "parent_id": "13ab4bfd-de0e-5046-9669-2985e27e5104",
+    "code": "surface_protection__masking_film__pre_taped",
+    "label": "Pre-Taped",
+    "level": 3,
+    "position": 1
+  },
+  {
+    "id": "aa1631ef-db0e-5d4b-b6f4-103e189be54e",
+    "parent_id": "13ab4bfd-de0e-5046-9669-2985e27e5104",
+    "code": "surface_protection__masking_film__standard_film",
+    "label": "Standard Film",
+    "level": 3,
+    "position": 2
+  },
+  {
+    "id": "7a02b6da-f08e-5777-be24-507eaea66413",
+    "parent_id": "f91ea7b2-7e01-5a3c-867e-a15675061d11",
+    "code": "surface_protection__protective_sheets",
+    "label": "Protective Sheets",
+    "level": 2,
+    "position": 3
+  },
+  {
+    "id": "cb91dd7e-e415-5f97-80f2-67569c08d297",
+    "parent_id": "7a02b6da-f08e-5777-be24-507eaea66413",
+    "code": "surface_protection__protective_sheets__canvas",
+    "label": "Canvas",
+    "level": 3,
+    "position": 1
+  },
+  {
+    "id": "a4c1f729-5886-55eb-806a-ccd8756b6ac5",
+    "parent_id": "7a02b6da-f08e-5777-be24-507eaea66413",
+    "code": "surface_protection__protective_sheets__polyethylene",
+    "label": "Polyethylene",
+    "level": 3,
+    "position": 2
+  },
+  {
+    "id": "e2d6378a-cb32-52ae-85b4-4df9e356c00d",
+    "parent_id": "7a02b6da-f08e-5777-be24-507eaea66413",
+    "code": "surface_protection__protective_sheets__absorbent",
+    "label": "Absorbent",
+    "level": 3,
+    "position": 3
+  },
+  {
+    "id": "5d530c0e-9b7b-5f22-bc02-102c31be599a",
+    "parent_id": "f91ea7b2-7e01-5a3c-867e-a15675061d11",
+    "code": "surface_protection__door_protection",
+    "label": "Door Protection",
+    "level": 2,
+    "position": 4
+  },
+  {
+    "id": "a353dafa-1f8d-52d7-8c31-2eec1d0afbc1",
+    "parent_id": "f91ea7b2-7e01-5a3c-867e-a15675061d11",
+    "code": "surface_protection__edge_protection",
+    "label": "Edge Protection",
+    "level": 2,
+    "position": 5
+  },
+  {
+    "id": "89ccf689-d4d8-56c5-8911-33b9c36c90de",
+    "parent_id": "a353dafa-1f8d-52d7-8c31-2eec1d0afbc1",
+    "code": "surface_protection__edge_protection__flexible",
+    "label": "Flexible",
+    "level": 3,
+    "position": 1
+  },
+  {
+    "id": "56e6f471-845a-5cc5-9331-7d3113868a54",
+    "parent_id": "a353dafa-1f8d-52d7-8c31-2eec1d0afbc1",
+    "code": "surface_protection__edge_protection__rigid",
+    "label": "Rigid",
+    "level": 3,
+    "position": 2
+  },
+  {
+    "id": "ffcc56f1-3b4f-5501-a594-710fc2473714",
+    "parent_id": null,
+    "code": "adhesive_tapes",
+    "label": "Adhesive Tapes",
+    "level": 1,
+    "position": 7
+  },
+  {
+    "id": "36de7d06-2365-540a-aef6-09d898e372e7",
+    "parent_id": "ffcc56f1-3b4f-5501-a594-710fc2473714",
+    "code": "adhesive_tapes__masking_tape",
+    "label": "Masking Tape",
+    "level": 2,
+    "position": 1
+  },
+  {
+    "id": "0a1beb75-12f5-5227-82d1-b04ebe6c8419",
+    "parent_id": "36de7d06-2365-540a-aef6-09d898e372e7",
+    "code": "adhesive_tapes__masking_tape__crepe",
+    "label": "Crepe",
+    "level": 3,
+    "position": 1
+  },
+  {
+    "id": "a6cba284-11c7-5054-abc3-b5611dcb109d",
+    "parent_id": "36de7d06-2365-540a-aef6-09d898e372e7",
+    "code": "adhesive_tapes__masking_tape__washi",
+    "label": "Washi",
+    "level": 3,
+    "position": 2
+  },
+  {
+    "id": "220dacc8-500e-5dc7-9aed-810c95adc966",
+    "parent_id": "36de7d06-2365-540a-aef6-09d898e372e7",
+    "code": "adhesive_tapes__masking_tape__low_tack",
+    "label": "Low Tack",
+    "level": 3,
+    "position": 3
+  },
+  {
+    "id": "0135c5cd-4a7f-5460-b278-28b7cfff5f56",
+    "parent_id": "36de7d06-2365-540a-aef6-09d898e372e7",
+    "code": "adhesive_tapes__masking_tape__outdoor",
+    "label": "Outdoor",
+    "level": 3,
+    "position": 4
+  },
+  {
+    "id": "b7c8d581-6864-5e45-ae64-b4ba386f9f3c",
+    "parent_id": "ffcc56f1-3b4f-5501-a594-710fc2473714",
+    "code": "adhesive_tapes__packaging_tape",
+    "label": "Packaging Tape",
+    "level": 2,
+    "position": 2
+  },
+  {
+    "id": "49f53ccf-8722-5351-9d02-8557dee681ef",
+    "parent_id": "b7c8d581-6864-5e45-ae64-b4ba386f9f3c",
+    "code": "adhesive_tapes__packaging_tape__clear",
+    "label": "Clear",
+    "level": 3,
+    "position": 1
+  },
+  {
+    "id": "2185c915-2327-53ae-93a3-5ee3173a2411",
+    "parent_id": "b7c8d581-6864-5e45-ae64-b4ba386f9f3c",
+    "code": "adhesive_tapes__packaging_tape__brown",
+    "label": "Brown",
+    "level": 3,
+    "position": 2
+  },
+  {
+    "id": "4e74ad80-bf45-5853-8b12-84af1407b8c5",
+    "parent_id": "b7c8d581-6864-5e45-ae64-b4ba386f9f3c",
+    "code": "adhesive_tapes__packaging_tape__reinforced",
+    "label": "Reinforced",
+    "level": 3,
+    "position": 3
+  },
+  {
+    "id": "d041e10e-e7f2-514b-804a-21b9b3bd4591",
+    "parent_id": "ffcc56f1-3b4f-5501-a594-710fc2473714",
+    "code": "adhesive_tapes__double_sided_tape",
+    "label": "Double Sided Tape",
+    "level": 2,
+    "position": 3
+  },
+  {
+    "id": "cbfbd887-c97c-5953-b544-162a409791e8",
+    "parent_id": "d041e10e-e7f2-514b-804a-21b9b3bd4591",
+    "code": "adhesive_tapes__double_sided_tape__foam",
+    "label": "Foam",
+    "level": 3,
+    "position": 1
+  },
+  {
+    "id": "4414e188-863c-57e3-8969-1b0047dffc54",
+    "parent_id": "d041e10e-e7f2-514b-804a-21b9b3bd4591",
+    "code": "adhesive_tapes__double_sided_tape__film",
+    "label": "Film",
+    "level": 3,
+    "position": 2
+  },
+  {
+    "id": "7e6ef867-a221-5821-9010-4d31506a403a",
+    "parent_id": "ffcc56f1-3b4f-5501-a594-710fc2473714",
+    "code": "adhesive_tapes__specialist_tape",
+    "label": "Specialist Tape",
+    "level": 2,
+    "position": 4
+  },
+  {
+    "id": "d465fe9f-c869-53f8-ba88-ef0bb43431df",
+    "parent_id": "7e6ef867-a221-5821-9010-4d31506a403a",
+    "code": "adhesive_tapes__specialist_tape__anti_slip",
+    "label": "Anti-Slip",
+    "level": 3,
+    "position": 1
+  },
+  {
+    "id": "343add01-7d37-5c1c-b449-c648cacbba38",
+    "parent_id": "7e6ef867-a221-5821-9010-4d31506a403a",
+    "code": "adhesive_tapes__specialist_tape__marking",
+    "label": "Marking",
+    "level": 3,
+    "position": 2
+  },
+  {
+    "id": "91efb45c-d27d-5144-ad58-eed98a62a268",
+    "parent_id": "7e6ef867-a221-5821-9010-4d31506a403a",
+    "code": "adhesive_tapes__specialist_tape__repair",
+    "label": "Repair",
+    "level": 3,
+    "position": 3
+  },
+  {
+    "id": "00ef0dc8-0193-5e58-be06-bcc7fe771992",
+    "parent_id": null,
+    "code": "scrapers_trowels",
+    "label": "Scrapers & Trowels",
+    "level": 1,
+    "position": 8
+  },
+  {
+    "id": "aa4779c6-f3ca-528d-b7ea-0f9c0af54f40",
+    "parent_id": "00ef0dc8-0193-5e58-be06-bcc7fe771992",
+    "code": "scrapers_trowels__filling_knives",
+    "label": "Filling Knives",
+    "level": 2,
+    "position": 1
+  },
+  {
+    "id": "0af602c6-3782-538c-a2e9-35495523b626",
+    "parent_id": "aa4779c6-f3ca-528d-b7ea-0f9c0af54f40",
+    "code": "scrapers_trowels__filling_knives__rigid_blade",
+    "label": "Rigid Blade",
+    "level": 3,
+    "position": 1
+  },
+  {
+    "id": "cfbf387a-7449-554e-8d6b-8813c926567f",
+    "parent_id": "aa4779c6-f3ca-528d-b7ea-0f9c0af54f40",
+    "code": "scrapers_trowels__filling_knives__flexible_blade",
+    "label": "Flexible Blade",
+    "level": 3,
+    "position": 2
+  },
+  {
+    "id": "440d8efc-f1da-586e-97f2-b5d45f656117",
+    "parent_id": "00ef0dc8-0193-5e58-be06-bcc7fe771992",
+    "code": "scrapers_trowels__scrapers",
+    "label": "Scrapers",
+    "level": 2,
+    "position": 2
+  },
+  {
+    "id": "6d6ab278-2293-5244-8dcd-52615504f7dd",
+    "parent_id": "440d8efc-f1da-586e-97f2-b5d45f656117",
+    "code": "scrapers_trowels__scrapers__safety_scraper",
+    "label": "Safety Scraper",
+    "level": 3,
+    "position": 1
+  },
+  {
+    "id": "f7588aea-faa1-5a0c-9a9c-582b9cde8540",
+    "parent_id": "440d8efc-f1da-586e-97f2-b5d45f656117",
+    "code": "scrapers_trowels__scrapers__long_handle",
+    "label": "Long Handle",
+    "level": 3,
+    "position": 2
+  },
+  {
+    "id": "1c37d27c-96c7-5dc2-ba16-9f350593d074",
+    "parent_id": "440d8efc-f1da-586e-97f2-b5d45f656117",
+    "code": "scrapers_trowels__scrapers__heavy_duty",
+    "label": "Heavy Duty",
+    "level": 3,
+    "position": 3
+  },
+  {
+    "id": "6fb5f61f-b0c1-5609-9863-a6285a8b9844",
+    "parent_id": "00ef0dc8-0193-5e58-be06-bcc7fe771992",
+    "code": "scrapers_trowels__finishing_trowels",
+    "label": "Finishing Trowels",
+    "level": 2,
+    "position": 3
+  },
+  {
+    "id": "6fe742f3-7223-5b7d-ad0d-b26bc6ff1cb1",
+    "parent_id": "6fb5f61f-b0c1-5609-9863-a6285a8b9844",
+    "code": "scrapers_trowels__finishing_trowels__stainless",
+    "label": "Stainless",
+    "level": 3,
+    "position": 1
+  },
+  {
+    "id": "b18cbae2-02e1-5414-a47e-efeed5e5f93c",
+    "parent_id": "6fb5f61f-b0c1-5609-9863-a6285a8b9844",
+    "code": "scrapers_trowels__finishing_trowels__carbon_steel",
+    "label": "Carbon Steel",
+    "level": 3,
+    "position": 2
+  },
+  {
+    "id": "9b52c76d-cbba-5d76-a376-8afec580009f",
+    "parent_id": "00ef0dc8-0193-5e58-be06-bcc7fe771992",
+    "code": "scrapers_trowels__notched_trowels",
+    "label": "Notched Trowels",
+    "level": 2,
+    "position": 4
+  },
+  {
+    "id": "5c47d419-cd9c-5bef-a52e-7c18bd14d9b7",
+    "parent_id": "9b52c76d-cbba-5d76-a376-8afec580009f",
+    "code": "scrapers_trowels__notched_trowels__fine_notch",
+    "label": "Fine Notch",
+    "level": 3,
+    "position": 1
+  },
+  {
+    "id": "0e5e7f7b-1dc7-5ca0-a7ea-f854d3e32532",
+    "parent_id": "9b52c76d-cbba-5d76-a376-8afec580009f",
+    "code": "scrapers_trowels__notched_trowels__wide_notch",
+    "label": "Wide Notch",
+    "level": 3,
+    "position": 2
+  },
+  {
+    "id": "230c2621-d5e3-539a-8445-eb346bc8ddd8",
+    "parent_id": "00ef0dc8-0193-5e58-be06-bcc7fe771992",
+    "code": "scrapers_trowels__blade_accessories",
+    "label": "Blade Accessories",
+    "level": 2,
+    "position": 5
+  },
+  {
+    "id": "4d9b40a7-9d9f-55e3-838b-a470e37fe93f",
+    "parent_id": null,
+    "code": "cleaning_supplies",
+    "label": "Cleaning Supplies",
+    "level": 1,
+    "position": 9
+  },
+  {
+    "id": "915ab193-430e-5b1a-ada6-dc57d94d32f9",
+    "parent_id": "4d9b40a7-9d9f-55e3-838b-a470e37fe93f",
+    "code": "cleaning_supplies__brush_cleaners",
+    "label": "Brush Cleaners",
+    "level": 2,
+    "position": 1
+  },
+  {
+    "id": "b4791119-2f32-54a1-bd4a-76217cfabb69",
+    "parent_id": "915ab193-430e-5b1a-ada6-dc57d94d32f9",
+    "code": "cleaning_supplies__brush_cleaners__liquid_cleaner",
+    "label": "Liquid Cleaner",
+    "level": 3,
+    "position": 1
+  },
+  {
+    "id": "12e81b43-93c9-5be5-a4c5-ff7d2b04843f",
+    "parent_id": "915ab193-430e-5b1a-ada6-dc57d94d32f9",
+    "code": "cleaning_supplies__brush_cleaners__solid_cleaner",
+    "label": "Solid Cleaner",
+    "level": 3,
+    "position": 2
+  },
+  {
+    "id": "6376f7b7-a048-58ca-a429-34c7ad0d3616",
+    "parent_id": "4d9b40a7-9d9f-55e3-838b-a470e37fe93f",
+    "code": "cleaning_supplies__cleaning_cloths",
+    "label": "Cleaning Cloths",
+    "level": 2,
+    "position": 2
+  },
+  {
+    "id": "2e8bb88f-44f9-5b2c-8e62-15061dadc8ee",
+    "parent_id": "6376f7b7-a048-58ca-a429-34c7ad0d3616",
+    "code": "cleaning_supplies__cleaning_cloths__microfiber",
+    "label": "Microfiber",
+    "level": 3,
+    "position": 1
+  },
+  {
+    "id": "11c1d004-a697-58c5-9a49-16acb1288e4d",
+    "parent_id": "6376f7b7-a048-58ca-a429-34c7ad0d3616",
+    "code": "cleaning_supplies__cleaning_cloths__cotton",
+    "label": "Cotton",
+    "level": 3,
+    "position": 2
+  },
+  {
+    "id": "d380b8d8-70df-58fb-833d-7560dfe9453f",
+    "parent_id": "6376f7b7-a048-58ca-a429-34c7ad0d3616",
+    "code": "cleaning_supplies__cleaning_cloths__industrial_wipe",
+    "label": "Industrial Wipe",
+    "level": 3,
+    "position": 3
+  },
+  {
+    "id": "8c6db646-b72b-5d4d-a3fb-d3167b7eabf6",
+    "parent_id": "4d9b40a7-9d9f-55e3-838b-a470e37fe93f",
+    "code": "cleaning_supplies__sponges",
+    "label": "Sponges",
+    "level": 2,
+    "position": 3
+  },
+  {
+    "id": "80148f6a-405a-547c-b746-cfc846c8c618",
+    "parent_id": "8c6db646-b72b-5d4d-a3fb-d3167b7eabf6",
+    "code": "cleaning_supplies__sponges__cellulose",
+    "label": "Cellulose",
+    "level": 3,
+    "position": 1
+  },
+  {
+    "id": "0eeb0320-209d-58c5-9a85-c20b27908eea",
+    "parent_id": "8c6db646-b72b-5d4d-a3fb-d3167b7eabf6",
+    "code": "cleaning_supplies__sponges__abrasive",
+    "label": "Abrasive",
+    "level": 3,
+    "position": 2
+  },
+  {
+    "id": "c0b1ee09-9493-5895-af4f-bcde2c22c1e4",
+    "parent_id": "4d9b40a7-9d9f-55e3-838b-a470e37fe93f",
+    "code": "cleaning_supplies__waste_collection",
+    "label": "Waste Collection",
+    "level": 2,
+    "position": 4
+  },
+  {
+    "id": "3f9e6fbc-467e-528f-a04d-8a71e329b135",
+    "parent_id": null,
+    "code": "coatings_sprays",
+    "label": "Coatings & Sprays",
+    "level": 1,
+    "position": 10
+  },
+  {
+    "id": "d8d9614b-6c32-55fc-9cdf-0c75d8003ea1",
+    "parent_id": "3f9e6fbc-467e-528f-a04d-8a71e329b135",
+    "code": "coatings_sprays__colour_sprays",
+    "label": "Colour Sprays",
+    "level": 2,
+    "position": 1
+  },
+  {
+    "id": "68ae39ab-9411-5c0a-a9bf-55dfab1ac840",
+    "parent_id": "d8d9614b-6c32-55fc-9cdf-0c75d8003ea1",
+    "code": "coatings_sprays__colour_sprays__standard_colour",
+    "label": "Standard Colour",
+    "level": 3,
+    "position": 1
+  },
+  {
+    "id": "b24ace93-518e-5dca-bafe-3fbcb53e6777",
+    "parent_id": "d8d9614b-6c32-55fc-9cdf-0c75d8003ea1",
+    "code": "coatings_sprays__colour_sprays__metallic_finish",
+    "label": "Metallic Finish",
+    "level": 3,
+    "position": 2
+  },
+  {
+    "id": "f669f9e2-02a8-51a8-ad25-31636ed2f033",
+    "parent_id": "3f9e6fbc-467e-528f-a04d-8a71e329b135",
+    "code": "coatings_sprays__technical_sprays",
+    "label": "Technical Sprays",
+    "level": 2,
+    "position": 2
+  },
+  {
+    "id": "3c35a53a-a24a-57ee-8d34-66a62de6ca3f",
+    "parent_id": "f669f9e2-02a8-51a8-ad25-31636ed2f033",
+    "code": "coatings_sprays__technical_sprays__primer",
+    "label": "Primer",
+    "level": 3,
+    "position": 1
+  },
+  {
+    "id": "23ab8a8f-ff19-5246-9811-a508d5bbe21e",
+    "parent_id": "f669f9e2-02a8-51a8-ad25-31636ed2f033",
+    "code": "coatings_sprays__technical_sprays__protective_coat",
+    "label": "Protective Coat",
+    "level": 3,
+    "position": 2
+  },
+  {
+    "id": "1bf17971-21d5-5489-98f9-24c70388a2d2",
+    "parent_id": "f669f9e2-02a8-51a8-ad25-31636ed2f033",
+    "code": "coatings_sprays__technical_sprays__lubricant",
+    "label": "Lubricant",
+    "level": 3,
+    "position": 3
+  },
+  {
+    "id": "24e32195-9b29-5819-815e-7a084ef6a622",
+    "parent_id": "3f9e6fbc-467e-528f-a04d-8a71e329b135",
+    "code": "coatings_sprays__marking_sprays",
+    "label": "Marking Sprays",
+    "level": 2,
+    "position": 3
+  },
+  {
+    "id": "cc6e31bf-2194-57ac-b76e-a11afc8a4da5",
+    "parent_id": "24e32195-9b29-5819-815e-7a084ef6a622",
+    "code": "coatings_sprays__marking_sprays__temporary",
+    "label": "Temporary",
+    "level": 3,
+    "position": 1
+  },
+  {
+    "id": "d8534597-0c10-5d11-a754-b49d85a5c3a9",
+    "parent_id": "24e32195-9b29-5819-815e-7a084ef6a622",
+    "code": "coatings_sprays__marking_sprays__permanent",
+    "label": "Permanent",
+    "level": 3,
+    "position": 2
+  },
+  {
+    "id": "ab432695-91d5-5bd0-8d7e-3dcaa6c29d96",
+    "parent_id": "3f9e6fbc-467e-528f-a04d-8a71e329b135",
+    "code": "coatings_sprays__surface_treatments",
+    "label": "Surface Treatments",
+    "level": 2,
+    "position": 4
+  },
+  {
+    "id": "22d31603-ff66-535a-aa17-d89f73686b67",
+    "parent_id": null,
+    "code": "safety_gear",
+    "label": "Safety Gear",
+    "level": 1,
+    "position": 11
+  },
+  {
+    "id": "1ab18a59-4bb7-515e-b9c0-cf89914340c1",
+    "parent_id": "22d31603-ff66-535a-aa17-d89f73686b67",
+    "code": "safety_gear__work_gloves",
+    "label": "Work Gloves",
+    "level": 2,
+    "position": 1
+  },
+  {
+    "id": "81c9a8b2-d558-588c-a0df-69a20bbe7e4c",
+    "parent_id": "1ab18a59-4bb7-515e-b9c0-cf89914340c1",
+    "code": "safety_gear__work_gloves__disposable",
+    "label": "Disposable",
+    "level": 3,
+    "position": 1
+  },
+  {
+    "id": "02eb4f83-f386-50bf-82d1-9f5e21422143",
+    "parent_id": "1ab18a59-4bb7-515e-b9c0-cf89914340c1",
+    "code": "safety_gear__work_gloves__cut_resistant",
+    "label": "Cut Resistant",
+    "level": 3,
+    "position": 2
+  },
+  {
+    "id": "30130dbe-b494-5bf1-99d5-5d2d50582693",
+    "parent_id": "1ab18a59-4bb7-515e-b9c0-cf89914340c1",
+    "code": "safety_gear__work_gloves__coated",
+    "label": "Coated",
+    "level": 3,
+    "position": 3
+  },
+  {
+    "id": "41292aeb-cb1b-5577-8563-55b1a8cb9400",
+    "parent_id": "22d31603-ff66-535a-aa17-d89f73686b67",
+    "code": "safety_gear__eye_protection",
+    "label": "Eye Protection",
+    "level": 2,
+    "position": 2
+  },
+  {
+    "id": "ebb263b1-0258-545b-81f0-c920c4be8f41",
+    "parent_id": "41292aeb-cb1b-5577-8563-55b1a8cb9400",
+    "code": "safety_gear__eye_protection__clear_lens",
+    "label": "Clear Lens",
+    "level": 3,
+    "position": 1
+  },
+  {
+    "id": "37227df3-d37f-5224-b835-d038068b3172",
+    "parent_id": "41292aeb-cb1b-5577-8563-55b1a8cb9400",
+    "code": "safety_gear__eye_protection__tinted_lens",
+    "label": "Tinted Lens",
+    "level": 3,
+    "position": 2
+  },
+  {
+    "id": "0b2c0eba-16e6-5125-bab3-0edac1201f62",
+    "parent_id": "22d31603-ff66-535a-aa17-d89f73686b67",
+    "code": "safety_gear__respiratory_protection",
+    "label": "Respiratory Protection",
+    "level": 2,
+    "position": 3
+  },
+  {
+    "id": "49643460-487f-5790-a55e-60f283ef34ce",
+    "parent_id": "0b2c0eba-16e6-5125-bab3-0edac1201f62",
+    "code": "safety_gear__respiratory_protection__particle_mask",
+    "label": "Particle Mask",
+    "level": 3,
+    "position": 1
+  },
+  {
+    "id": "1b294e8e-41ff-584e-bf57-b1233683fdf6",
+    "parent_id": "0b2c0eba-16e6-5125-bab3-0edac1201f62",
+    "code": "safety_gear__respiratory_protection__reusable_half_mask",
+    "label": "Reusable Half Mask",
+    "level": 3,
+    "position": 2
+  },
+  {
+    "id": "ac3c82e4-4b94-5f04-9a76-8a397cb42408",
+    "parent_id": "22d31603-ff66-535a-aa17-d89f73686b67",
+    "code": "safety_gear__protective_clothing",
+    "label": "Protective Clothing",
+    "level": 2,
+    "position": 4
+  },
+  {
+    "id": "9406ea88-fb55-508a-9133-015f9d4c232d",
+    "parent_id": null,
+    "code": "decorating_accessories",
+    "label": "Decorating Accessories",
+    "level": 1,
+    "position": 12
+  },
+  {
+    "id": "d4147c03-7e8c-5f32-a66b-82b1b827e670",
+    "parent_id": "9406ea88-fb55-508a-9133-015f9d4c232d",
+    "code": "decorating_accessories__wallpaper_tools",
+    "label": "Wallpaper Tools",
+    "level": 2,
+    "position": 1
+  },
+  {
+    "id": "bd7d3197-9898-5180-bd47-b36818852eca",
+    "parent_id": "d4147c03-7e8c-5f32-a66b-82b1b827e670",
+    "code": "decorating_accessories__wallpaper_tools__smoother",
+    "label": "Smoother",
+    "level": 3,
+    "position": 1
+  },
+  {
+    "id": "85baa2b5-ca44-5a4b-ae53-0a7b7555c9df",
+    "parent_id": "d4147c03-7e8c-5f32-a66b-82b1b827e670",
+    "code": "decorating_accessories__wallpaper_tools__seam_roller",
+    "label": "Seam Roller",
+    "level": 3,
+    "position": 2
+  },
+  {
+    "id": "4d42e1c8-ccc6-5456-9a94-8ad098a4f19a",
+    "parent_id": "d4147c03-7e8c-5f32-a66b-82b1b827e670",
+    "code": "decorating_accessories__wallpaper_tools__trimmer",
+    "label": "Trimmer",
+    "level": 3,
+    "position": 3
+  },
+  {
+    "id": "a38dced3-aeeb-55ad-90f1-6eef04675659",
+    "parent_id": "9406ea88-fb55-508a-9133-015f9d4c232d",
+    "code": "decorating_accessories__cutting_tools",
+    "label": "Cutting Tools",
+    "level": 2,
+    "position": 2
+  },
+  {
+    "id": "93830788-56c5-5f82-9a60-46ae2e23240e",
+    "parent_id": "a38dced3-aeeb-55ad-90f1-6eef04675659",
+    "code": "decorating_accessories__cutting_tools__utility_knife",
+    "label": "Utility Knife",
+    "level": 3,
+    "position": 1
+  },
+  {
+    "id": "82c707ff-39e5-570d-b6e4-b5b1070a70d1",
+    "parent_id": "a38dced3-aeeb-55ad-90f1-6eef04675659",
+    "code": "decorating_accessories__cutting_tools__precision_cutter",
+    "label": "Precision Cutter",
+    "level": 3,
+    "position": 2
+  },
+  {
+    "id": "75f396ba-bde4-5b1c-855f-8d8ad2c8e275",
+    "parent_id": "9406ea88-fb55-508a-9133-015f9d4c232d",
+    "code": "decorating_accessories__abrasives",
+    "label": "Abrasives",
+    "level": 2,
+    "position": 3
+  },
+  {
+    "id": "7eea5efb-9dbf-5930-a099-53b68b1f9a8a",
+    "parent_id": "75f396ba-bde4-5b1c-855f-8d8ad2c8e275",
+    "code": "decorating_accessories__abrasives__sanding_block",
+    "label": "Sanding Block",
+    "level": 3,
+    "position": 1
+  },
+  {
+    "id": "8172b6c7-135c-5366-b7bc-3692b63b443a",
+    "parent_id": "75f396ba-bde4-5b1c-855f-8d8ad2c8e275",
+    "code": "decorating_accessories__abrasives__sheet",
+    "label": "Sheet",
+    "level": 3,
+    "position": 2
+  },
+  {
+    "id": "448ec7a0-cfa8-5f96-ab13-ca9347682eb2",
+    "parent_id": "75f396ba-bde4-5b1c-855f-8d8ad2c8e275",
+    "code": "decorating_accessories__abrasives__disc",
+    "label": "Disc",
+    "level": 3,
+    "position": 3
+  },
+  {
+    "id": "558bd03d-8003-5e5d-9401-de827070fc9c",
+    "parent_id": "9406ea88-fb55-508a-9133-015f9d4c232d",
+    "code": "decorating_accessories__caulking_tools",
+    "label": "Caulking Tools",
+    "level": 2,
+    "position": 4
+  },
+  {
+    "id": "6e84aa59-d5a5-5c69-8e4c-67fb4bc48e1e",
+    "parent_id": "558bd03d-8003-5e5d-9401-de827070fc9c",
+    "code": "decorating_accessories__caulking_tools__cartridge_gun",
+    "label": "Cartridge Gun",
+    "level": 3,
+    "position": 1
+  },
+  {
+    "id": "b6ae439a-d363-5b10-bab4-f8d2d3d4ad0f",
+    "parent_id": "558bd03d-8003-5e5d-9401-de827070fc9c",
+    "code": "decorating_accessories__caulking_tools__finishing_tool",
+    "label": "Finishing Tool",
+    "level": 3,
+    "position": 2
+  },
+  {
+    "id": "8cfde80c-1601-5aa0-b965-69aae45435d1",
+    "parent_id": "9406ea88-fb55-508a-9133-015f9d4c232d",
+    "code": "decorating_accessories__decorative_tools",
+    "label": "Decorative Tools",
+    "level": 2,
+    "position": 5
+  },
+  {
+    "id": "94b668c1-6588-56d8-ab18-861932ee2366",
+    "parent_id": null,
+    "code": "retail_displays",
+    "label": "Retail Displays",
+    "level": 1,
+    "position": 13
+  },
+  {
+    "id": "9da2f502-6062-51e8-bdaa-9bc2bf519808",
+    "parent_id": "94b668c1-6588-56d8-ab18-861932ee2366",
+    "code": "retail_displays__counter_displays",
+    "label": "Counter Displays",
+    "level": 2,
+    "position": 1
+  },
+  {
+    "id": "b94648a9-1ad8-58b8-86f5-083dc3e138ce",
+    "parent_id": "9da2f502-6062-51e8-bdaa-9bc2bf519808",
+    "code": "retail_displays__counter_displays__compact",
+    "label": "Compact",
+    "level": 3,
+    "position": 1
+  },
+  {
+    "id": "941bd4c2-12ae-5828-a39c-5df3128a23cf",
+    "parent_id": "9da2f502-6062-51e8-bdaa-9bc2bf519808",
+    "code": "retail_displays__counter_displays__modular",
+    "label": "Modular",
+    "level": 3,
+    "position": 2
+  },
+  {
+    "id": "9b96cf65-894a-5d6f-a7cc-086394d19660",
+    "parent_id": "94b668c1-6588-56d8-ab18-861932ee2366",
+    "code": "retail_displays__floor_displays",
+    "label": "Floor Displays",
+    "level": 2,
+    "position": 2
+  },
+  {
+    "id": "29dfeae5-bd35-5314-acd3-2a488faaf967",
+    "parent_id": "9b96cf65-894a-5d6f-a7cc-086394d19660",
+    "code": "retail_displays__floor_displays__freestanding",
+    "label": "Freestanding",
+    "level": 3,
+    "position": 1
+  },
+  {
+    "id": "3af03e16-ec7d-54e2-bd9d-319232809f9a",
+    "parent_id": "9b96cf65-894a-5d6f-a7cc-086394d19660",
+    "code": "retail_displays__floor_displays__wall_mounted",
+    "label": "Wall Mounted",
+    "level": 3,
+    "position": 2
+  },
+  {
+    "id": "78b568b3-8979-5324-84b5-fe12c5a9e18f",
+    "parent_id": "94b668c1-6588-56d8-ab18-861932ee2366",
+    "code": "retail_displays__printed_materials",
+    "label": "Printed Materials",
+    "level": 2,
+    "position": 3
+  },
+  {
+    "id": "1b10f014-c172-51ea-8537-35ed0e4de47f",
+    "parent_id": "94b668c1-6588-56d8-ab18-861932ee2366",
+    "code": "retail_displays__promotional_kits",
+    "label": "Promotional Kits",
+    "level": 2,
+    "position": 4
+  }
+]

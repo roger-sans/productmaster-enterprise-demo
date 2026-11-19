@@ -1,0 +1,495 @@
+[
+  {
+    "sku": "PRD000000001",
+    "description": "Aster Synthetic Handle Paint Brushe 1",
+    "classification_node_id": "00c53173-ebe8-5fb0-a195-87ce6dbdfadf",
+    "brand": "Aster",
+    "range_name": "Core",
+    "sector": "Professional",
+    "lifecycle": "Active",
+    "business_role": "Core range",
+    "source_system": "Core ERP",
+    "attributes": {
+      "working_width": 150,
+      "working_length": 100,
+      "bristle_material": "Synthetic",
+      "size_designation": "S"
+    },
+    "status": "accepted",
+    "version": 1
+  },
+  {
+    "sku": "PRD000000002",
+    "description": "Noma Deep Well Painting Accessorie 2",
+    "classification_node_id": "592e8e63-1018-5964-badf-2f358f722607",
+    "brand": "Noma",
+    "range_name": "Core",
+    "sector": "Professional",
+    "lifecycle": "Active",
+    "business_role": "Core range",
+    "source_system": "Core ERP",
+    "attributes": {
+      "colour_family": "White",
+      "material_composition": "Microfiber",
+      "recyclable_packaging": true
+    },
+    "status": "accepted",
+    "version": 1
+  },
+  {
+    "sku": "PRD000000003",
+    "description": "Vale Film Adhesive Tape 3",
+    "classification_node_id": "4414e188-863c-57e3-8969-1b0047dffc54",
+    "brand": "Vale",
+    "range_name": "Core",
+    "sector": "Professional",
+    "lifecycle": "Active",
+    "business_role": "Core range",
+    "source_system": "Core ERP",
+    "attributes": {
+      "working_width": 25,
+      "pack_units": 4,
+      "roll_length": 10,
+      "adhesive_type": "Solvent-free",
+      "adhesion_level": "High",
+      "recyclable_packaging": true
+    },
+    "status": "accepted",
+    "version": 1
+  },
+  {
+    "sku": "PRD000000004",
+    "description": "Kora Protective Clothing Safety Gear 4",
+    "classification_node_id": "ac3c82e4-4b94-5f04-9a76-8a397cb42408",
+    "brand": "Kora",
+    "range_name": "Trade",
+    "sector": "Professional",
+    "lifecycle": "Active",
+    "business_role": "Core range",
+    "source_system": "Core ERP",
+    "attributes": {
+      "pack_units": 5,
+      "material_composition": "Metal",
+      "protection_class": "General",
+      "size_designation": "XL",
+      "recyclable_packaging": true
+    },
+    "status": "accepted",
+    "version": 1
+  },
+  {
+    "sku": "PRD000000005",
+    "description": "Westline Foam Paint Roller 5",
+    "classification_node_id": "363b07aa-553b-5617-a676-30ba6eeb2a8f",
+    "brand": "Westline",
+    "range_name": "Trade",
+    "sector": "Professional",
+    "lifecycle": "Active",
+    "business_role": "Core range",
+    "source_system": "Core ERP",
+    "attributes": {
+      "working_width": 230,
+      "working_length": 180,
+      "diameter": 28,
+      "handle_material": "Wood",
+      "cover_material": "Flocked",
+      "surface_finish": "Smooth",
+      "pack_units": 10,
+      "recyclable_packaging": false
+    },
+    "status": "accepted",
+    "version": 1
+  },
+  {
+    "sku": "PRD000000006",
+    "description": "Orion Quick Lock Extension Pole 6",
+    "classification_node_id": "8a46c0cb-a339-5404-87ad-b7f91afd7de7",
+    "brand": "Orion",
+    "range_name": "Trade",
+    "sector": "Professional",
+    "lifecycle": "Active",
+    "business_role": "Core range",
+    "source_system": "Core ERP",
+    "attributes": {
+      "working_length": 100,
+      "diameter": 6,
+      "total_extension": 300,
+      "connector_type": "Universal"
+    },
+    "status": "accepted",
+    "version": 1
+  },
+  {
+    "sku": "PRD000000007",
+    "description": "Aero Microfiber Cleaning Supplie 7",
+    "classification_node_id": "2e8bb88f-44f9-5b2c-8e62-15061dadc8ee",
+    "brand": "Aero",
+    "range_name": "Studio",
+    "sector": "Professional",
+    "lifecycle": "Active",
+    "business_role": "Core range",
+    "source_system": "Core ERP",
+    "attributes": {
+      "material_composition": "Microfiber",
+      "recyclable_packaging": true
+    },
+    "status": "accepted",
+    "version": 1
+  },
+  {
+    "sku": "PRD000000008",
+    "description": "Haven Printed Materials Retail Display 1",
+    "classification_node_id": "78b568b3-8979-5324-84b5-fe12c5a9e18f",
+    "brand": "Haven",
+    "range_name": "Studio",
+    "sector": "Professional",
+    "lifecycle": "Active",
+    "business_role": "Core range",
+    "source_system": "Core ERP",
+    "attributes": {
+      "display_capacity": 48,
+      "recyclable_packaging": true
+    },
+    "status": "accepted",
+    "version": 1
+  },
+  {
+    "sku": "PRD000000009",
+    "description": "Aster General Purpose Mini Roller 2",
+    "classification_node_id": "fcab2001-e153-59fc-8e85-fe8481c9ba98",
+    "brand": "Aster",
+    "range_name": "Studio",
+    "sector": "Professional",
+    "lifecycle": "Active",
+    "business_role": "Core range",
+    "source_system": "Core ERP",
+    "attributes": {
+      "working_width": 50,
+      "working_length": 100,
+      "diameter": 8,
+      "pile_height": 18,
+      "handle_material": "Wood",
+      "cover_material": "Woven",
+      "surface_finish": "Smooth",
+      "pack_units": 5,
+      "recyclable_packaging": false
+    },
+    "status": "accepted",
+    "version": 1
+  },
+  {
+    "sku": "PRD000000010",
+    "description": "Noma Outdoor Adhesive Tape 3",
+    "classification_node_id": "0135c5cd-4a7f-5460-b278-28b7cfff5f56",
+    "brand": "Noma",
+    "range_name": "Pro",
+    "sector": "Professional",
+    "lifecycle": "Active",
+    "business_role": "Core range",
+    "source_system": "Core ERP",
+    "attributes": {
+      "working_width": 100,
+      "pack_units": 10,
+      "roll_length": 10,
+      "adhesive_type": "Acrylic",
+      "adhesion_level": "Low",
+      "recyclable_packaging": true
+    },
+    "status": "accepted",
+    "version": 1
+  },
+  {
+    "sku": "PRD000000011",
+    "description": "Vale Coated Safety Gear 4",
+    "classification_node_id": "30130dbe-b494-5bf1-99d5-5d2d50582693",
+    "brand": "Vale",
+    "range_name": "Pro",
+    "sector": "Professional",
+    "lifecycle": "Active",
+    "business_role": "Core range",
+    "source_system": "Core ERP",
+    "attributes": {
+      "protection_class": "Light Duty",
+      "size_designation": "00"
+    },
+    "status": "accepted",
+    "version": 1
+  },
+  {
+    "sku": "PRD000000012",
+    "description": "Kora Professional Set Paint Brushe 5",
+    "classification_node_id": "c185d5f4-e9fc-5bf9-8a3e-c3bad781265b",
+    "brand": "Kora",
+    "range_name": "Pro",
+    "sector": "Retail",
+    "lifecycle": "Active",
+    "business_role": "Core range",
+    "source_system": "Core ERP",
+    "attributes": {
+      "working_width": 230,
+      "bristle_material": "Mixed",
+      "bristle_density": "Firm",
+      "handle_material": "Metal",
+      "pack_units": 2,
+      "size_designation": "1.5",
+      "recyclable_packaging": true
+    },
+    "status": "accepted",
+    "version": 1
+  },
+  {
+    "sku": "PRD000000013",
+    "description": "Westline Three Section Extension Pole 6",
+    "classification_node_id": "8ec20eba-1405-532d-8bc5-0f22361626b8",
+    "brand": "Westline",
+    "range_name": "Eco",
+    "sector": "Retail",
+    "lifecycle": "Active",
+    "business_role": "Core range",
+    "source_system": "Core ERP",
+    "attributes": {
+      "working_length": 230,
+      "total_extension": 120,
+      "connector_type": "Threaded",
+      "recyclable_packaging": false
+    },
+    "status": "accepted",
+    "version": 1
+  },
+  {
+    "sku": "PRD000000014",
+    "description": "Orion Fine Notch Scrapers & Trowel 7",
+    "classification_node_id": "5c47d419-cd9c-5bef-a52e-7c18bd14d9b7",
+    "brand": "Orion",
+    "range_name": "Eco",
+    "sector": "Retail",
+    "lifecycle": "Active",
+    "business_role": "Seasonal",
+    "source_system": "Core ERP",
+    "attributes": {
+      "working_width": 75,
+      "working_length": 75,
+      "handle_material": "Polymer",
+      "surface_finish": "Textured",
+      "blade_thickness": 1.2,
+      "blade_material": "Carbon Steel",
+      "recyclable_packaging": true
+    },
+    "status": "accepted",
+    "version": 1
+  },
+  {
+    "sku": "PRD000000015",
+    "description": "Aero Decorative Tools Decorating Accessorie 1",
+    "classification_node_id": "8cfde80c-1601-5aa0-b965-69aae45435d1",
+    "brand": "Aero",
+    "range_name": "Eco",
+    "sector": "Retail",
+    "lifecycle": "Active",
+    "business_role": "Seasonal",
+    "source_system": "Core ERP",
+    "attributes": {
+      "colour_family": "Cool",
+      "material_composition": "Wood",
+      "recyclable_packaging": true
+    },
+    "status": "accepted",
+    "version": 1
+  },
+  {
+    "sku": "PRD000000016",
+    "description": "Haven Twin Pack Mini Roller 2",
+    "classification_node_id": "e5b9b0a5-f5c3-596d-8797-1835a7d8f017",
+    "brand": "Haven",
+    "range_name": "Core",
+    "sector": "Retail",
+    "lifecycle": "Active",
+    "business_role": "Seasonal",
+    "source_system": "Core ERP",
+    "attributes": {
+      "working_width": 230,
+      "working_length": 300,
+      "diameter": 40,
+      "pile_height": 9,
+      "cover_material": "Foam",
+      "surface_finish": "Matte"
+    },
+    "status": "accepted",
+    "version": 1
+  },
+  {
+    "sku": "PRD000000017",
+    "description": "Aster Flexible Surface Protection 3",
+    "classification_node_id": "89ccf689-d4d8-56c5-8911-33b9c36c90de",
+    "brand": "Aster",
+    "range_name": "Core",
+    "sector": "Retail",
+    "lifecycle": "Active",
+    "business_role": "Seasonal",
+    "source_system": "Core ERP",
+    "attributes": {
+      "working_width": 230,
+      "roll_length": 20,
+      "recyclable_packaging": false
+    },
+    "status": "accepted",
+    "version": 1
+  },
+  {
+    "sku": "PRD000000018",
+    "description": "Noma Temporary Coatings & Spray 4",
+    "classification_node_id": "cc6e31bf-2194-57ac-b76e-a11afc8a4da5",
+    "brand": "Noma",
+    "range_name": "Core",
+    "sector": "Retail",
+    "lifecycle": "Active",
+    "business_role": "Seasonal",
+    "source_system": "Core ERP",
+    "attributes": {
+      "surface_finish": "Textured",
+      "volume_ml": 400,
+      "recyclable_packaging": true
+    },
+    "status": "accepted",
+    "version": 1
+  },
+  {
+    "sku": "PRD000000019",
+    "description": "Vale Angled Tip Paint Brushe 5",
+    "classification_node_id": "0a6056b2-b3cf-5016-8507-2579385145f2",
+    "brand": "Vale",
+    "range_name": "Trade",
+    "sector": "Retail",
+    "lifecycle": "Active",
+    "business_role": "Seasonal",
+    "source_system": "Core ERP",
+    "attributes": {
+      "working_width": 180,
+      "working_length": 180,
+      "bristle_material": "Synthetic",
+      "bristle_density": "Soft",
+      "handle_material": "Bi-material",
+      "pack_units": 5,
+      "size_designation": "S",
+      "recyclable_packaging": true
+    },
+    "status": "accepted",
+    "version": 1
+  },
+  {
+    "sku": "PRD000000020",
+    "description": "Kora Bucket Painting Accessorie 6",
+    "classification_node_id": "7ff312dd-11af-5a99-91f8-9b22ff62e319",
+    "brand": "Kora",
+    "range_name": "Trade",
+    "sector": "Retail",
+    "lifecycle": "Active",
+    "business_role": "Seasonal",
+    "source_system": "Warehouse Hub",
+    "attributes": {
+      "colour_family": "Cool",
+      "material_composition": "Wood",
+      "recyclable_packaging": true
+    },
+    "status": "accepted",
+    "version": 1
+  },
+  {
+    "sku": "PRD000000021",
+    "description": "Westline Safety Scraper Scrapers & Trowel 7",
+    "classification_node_id": "6d6ab278-2293-5244-8dcd-52615504f7dd",
+    "brand": "Westline",
+    "range_name": "Trade",
+    "sector": "Retail",
+    "lifecycle": "Active",
+    "business_role": "Seasonal",
+    "source_system": "Warehouse Hub",
+    "attributes": {
+      "working_width": 150,
+      "working_length": 100,
+      "surface_finish": "Smooth",
+      "blade_material": "Polymer"
+    },
+    "status": "accepted",
+    "version": 1
+  },
+  {
+    "sku": "PRD000000022",
+    "description": "Orion Sanding Block Decorating Accessorie 1",
+    "classification_node_id": "7eea5efb-9dbf-5930-a099-53b68b1f9a8a",
+    "brand": "Orion",
+    "range_name": "Studio",
+    "sector": "Retail",
+    "lifecycle": "Active",
+    "business_role": "Seasonal",
+    "source_system": "Warehouse Hub",
+    "attributes": {
+      "colour_family": "White",
+      "material_composition": "Microfiber",
+      "recyclable_packaging": true
+    },
+    "status": "accepted",
+    "version": 1
+  },
+  {
+    "sku": "PRD000000023",
+    "description": "Aero Corner Rollers Paint Roller 2",
+    "classification_node_id": "93334616-ce9f-5ba7-a23f-8b205aaed4f3",
+    "brand": "Aero",
+    "range_name": "Studio",
+    "sector": "Industrial",
+    "lifecycle": "Active",
+    "business_role": "Seasonal",
+    "source_system": "Warehouse Hub",
+    "attributes": {
+      "working_width": 75,
+      "working_length": 300,
+      "pile_height": 18,
+      "handle_material": "Bi-material",
+      "cover_material": "Polyamide",
+      "surface_finish": "Satin",
+      "pack_units": 4,
+      "recyclable_packaging": true
+    },
+    "status": "accepted",
+    "version": 1
+  },
+  {
+    "sku": "PRD000000024",
+    "description": "Haven Standard Film Surface Protection 3",
+    "classification_node_id": "aa1631ef-db0e-5d4b-b6f4-103e189be54e",
+    "brand": "Haven",
+    "range_name": "Studio",
+    "sector": "Industrial",
+    "lifecycle": "Launch",
+    "business_role": "Seasonal",
+    "source_system": "Warehouse Hub",
+    "attributes": {
+      "working_width": 25,
+      "film_thickness": 20,
+      "roll_length": 25,
+      "recyclable_packaging": true
+    },
+    "status": "accepted",
+    "version": 1
+  },
+  {
+    "sku": "PRD000000025",
+    "description": "Aster Standard Colour Coatings & Spray 4",
+    "classification_node_id": "68ae39ab-9411-5c0a-a9bf-55dfab1ac840",
+    "brand": "Aster",
+    "range_name": "Pro",
+    "sector": "Industrial",
+    "lifecycle": "Launch",
+    "business_role": "Seasonal",
+    "source_system": "Warehouse Hub",
+    "attributes": {
+      "surface_finish": "Smooth",
+      "colour_family": "Cool",
+      "volume_ml": 250,
+      "recyclable_packaging": false
+    },
+    "status": "accepted",
+    "version": 1
+  }
+]
